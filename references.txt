@@ -1,0 +1,10 @@
+Text Mining References:
+http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
+https://rpubs.com/pjmurphy/265713
+
+Circular Bar Chart Reference:
+https://www.codementor.io/jhwatts2010/counting-words-with-r-ds35hzgmj
+
+Web Scraping:
+https://www.quora.com/How-can-I-web-scrape-Amazon-product-reviews-using-R
+https://justrthings.com/2016/08/17/web-scraping-and-sentiment-analysis-of-amazon-reviews/
