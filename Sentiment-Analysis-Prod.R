@@ -1,3 +1,4 @@
+# Dataset: https://www.kaggle.com/sid321axn/amazon-alexa-reviews#amazon_alexa.tsv
 ### LOADING LIBRARIES FOR WORD CLOUD AND WORD FREQUENCY GENERATOR  ######
 rm(list = ls())
 library(tm) # for text mining
